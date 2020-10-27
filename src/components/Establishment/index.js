@@ -1,4 +1,4 @@
-import Reat, { useState, useEffect } from 'react';
+import React, { useState, useEffect } from 'react';
 import EstablishmentsService from '../../services/establishment_service';
 
 import styled from 'styled-components';
